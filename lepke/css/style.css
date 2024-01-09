@@ -1,0 +1,46 @@
+body
+{
+   background-color: #2f4f4f;
+}
+
+h1
+{
+    color: white;
+    text-align: center;
+}
+
+#fo
+{
+    width: 640px;
+    margin: 0 auto;
+    border: none;
+    background-image: url('../img/hatter.jpg');
+}
+
+#fot td 
+{
+    padding: 5px;
+    margin: 5px;
+}
+p{
+    font-size: 1.3em;
+}
+
+img
+{
+    border: 1px solid black;
+}
+
+#jobb
+{
+    float: right;
+}
+
+#bal
+{
+    float: left;
+}
+a, a:active, a:visited, a:hover
+{
+    color: black;
+}  

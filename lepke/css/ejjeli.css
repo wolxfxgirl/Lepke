@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+}
+
+table
+{
+    width: 640px;
+    border: none;
+    margin: auto;
+    background-color: #2f4f42;
+    color:white;
+}
